@@ -1,5 +1,7 @@
 # Proyecto: Sistema de Registro de Datos en Tiempo Real
 
+![Vista del proyecto](vistadelproyecto.jpg)
+
 ## Descripción General
 
 Este proyecto consiste en una aplicación web que permite registrar y visualizar datos personales en tiempo real. La aplicación está construida utilizando tecnologías web estándar (HTML, CSS y JavaScript) sin dependencias externas, lo que la hace ligera y fácil de implementar.
